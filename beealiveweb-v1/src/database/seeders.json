@@ -1,0 +1,25 @@
+{
+  "meliponarios": [
+    {
+      "name": "Meliponário Parahyba",
+      "caixas": 5,
+      "especies": "Jataí, Jandaíra, Mandaçaia e Tiúba",
+      "endereco": "Rua Governador Luis de Brito Almeida, 327a - Jardim Veneza, João Pessoa - PB, 58084-090",
+      "descricao": "Meliponário para criação de abelhas sem ferrão"
+    },
+    {
+      "name": "Meliponário Viveiro JP",
+      "caixas": 10,
+      "especies": "Jatai, Uruçu e Moça-Branca",
+      "endereco": "R. Emb. Sérgio Viêira de Melo, 553-427 - Gramame, João Pessoa - PB, 58068-050",
+      "descricao": "Meliponário para criação de abelhas sem ferrão"
+    },  
+    { 
+    "name": "Meliponário Smith",
+    "caixas": 6,
+    "especies": "Jatai, Mandaçaia, Uruçu e Tiúba",
+    "endereco": "R. João Camilo de Oliveira - Bairro dos Ipês, João Pessoa - PB, 58000-000",
+    "descricao": "Meliponário para criação de abelhas sem ferrão"
+  }
+ ]
+} 
